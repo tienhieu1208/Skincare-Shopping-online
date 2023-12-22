@@ -1,0 +1,52 @@
+/* InformComponent.css */
+
+/* Set background color to black */
+.body-customer {
+    background-color: white;
+  }
+  
+  /* Set text color to orange */
+  .color-orange {
+    color: #364d62;
+  }
+  
+  /* Style for the border-bottom */
+  .border-bottom {
+    border-bottom: 1px solid #364d62;
+  }
+  
+  /* Style for the float-left and float-right */
+  .float-left,
+  .float-right {
+    color: #364d62;
+    margin: 10px;
+  }
+  
+  /* Style for the float-clear */
+  .float-clear::after {
+    content: '';
+    display: table;
+    clear: both;
+  }
+  
+  /* Style for the links */
+  a {
+    color: #364d62;
+    text-decoration: none;
+  }
+  
+  /* Style for the links on hover */
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style for the logout link */
+  .logout-link {
+    cursor: pointer;
+  }
+  
+  /* Style for the My cart link */
+  .my-cart-link b {
+    color: #364d62;
+  }
+  

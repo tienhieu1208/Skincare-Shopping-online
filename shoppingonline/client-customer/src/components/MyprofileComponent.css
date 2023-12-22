@@ -1,0 +1,47 @@
+/* MyprofileComponent.css */
+
+/* Style for the Myprofile component */
+.align-center {
+    text-align: center;
+  }
+  
+  /* Style for the form */
+  .align-center form {
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  /* Style for the table */
+  .align-center table {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  /* Style for table cells */
+  .align-center td {
+    padding: 10px; /* Adjust padding as needed */
+  }
+  
+  /* Style for input fields */
+  .align-center input[type="text"],
+  .align-center input[type="password"],
+  .align-center input[type="tel"],
+  .align-center input[type="email"],
+  .align-center input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+  }
+  
+  /* Style for submit button */
+  .align-center input[type="submit"] {
+    background-color: #364d62;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Style for submit button on hover */
+  .align-center input[type="submit"]:hover {
+    background-color: #364d62;
+  }
+  

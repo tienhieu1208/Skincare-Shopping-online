@@ -1,0 +1,30 @@
+.login-button {
+  display: block;
+  margin: auto;
+}
+
+.login-btn {
+  margin-top: 20px; /* Thêm khoảng cách trên cùng cho nút LOGIN */
+}
+
+h2.text-center {
+  color: white;
+}
+
+.login-container {
+  background-color: #2f4960;
+}
+  
+.login-form {
+  background-color: #364d62;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.login-form label {
+  color: white;
+}
+
+.text-center {
+  text-align: center;
+}

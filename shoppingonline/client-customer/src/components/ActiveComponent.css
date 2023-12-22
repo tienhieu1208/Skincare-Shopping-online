@@ -1,0 +1,38 @@
+.align-center {
+    text-align: center;
+  }
+  
+  .text-center {
+    color: #364d62;
+  }
+  
+  .active-container {
+    background-color: white;
+    color: #364d62;
+  }
+  
+  .active-form {
+    margin: 0 auto;
+  }
+  
+  .active-form table {
+    margin: 0 auto;
+  }
+  
+  .active-form input[type="text"],
+  .active-form input[type="submit"] {
+    padding: 5px;
+  }
+  
+  .active-form input[type="submit"] {
+    cursor: pointer;
+    background-color: #364d62;
+    color: white;
+    border: none;
+  }
+  
+  .active-form input[type="submit"]:hover {
+    background-color: white;
+    color: #364d62;
+  }
+  

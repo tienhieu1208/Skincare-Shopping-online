@@ -1,0 +1,44 @@
+/* MycartComponent.css */
+
+/* Style for the item list */
+.align-center {
+    text-align: center;
+  }
+  
+  /* Style for the table */
+  .datatable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  /* Style for table headers */
+  .datatable th {
+    background-color: black;
+    color: #364d62;
+    padding: 10px; /* Adjust padding as needed */
+  }
+  
+  /* Style for table cells */
+  .datatable td {
+    padding: 10px;
+    color: black; /* Adjust padding as needed */
+  }
+  
+  /* Style for alternating rows */
+  .datatable tr:nth-child(even) {
+    background-color: #364d62; /* Adjust background color as needed */
+  }
+  
+  /* Style for links */
+  .link {
+    cursor: pointer;
+    color: #364d62;
+    text-decoration: underline;
+  }
+  
+  /* Style for links on hover */
+  .link:hover {
+    color: #364d62;
+  }
+  

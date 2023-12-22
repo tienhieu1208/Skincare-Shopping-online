@@ -1,0 +1,69 @@
+/* LoginComponent.css */
+
+/* Set background color to black */
+.body-login {
+    background-color: white;
+  }
+  
+  /* Set text color to orange */
+  .color-orange {
+    color: #364d62;
+  }
+  
+  /* Style for the align-center class */
+  .align-center {
+    text-align: center;
+  }
+  
+  /* Style for the text-center class */
+  .text-center {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the input fields */
+  input {
+    padding: 8px;
+    margin: 5px;
+    border: 1px solid #364d62;
+    border-radius: 5px;
+  }
+  
+  /* Style for the submit button */
+  input[type="submit"] {
+    background-color: #364d62;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* Style for the submit button on hover */
+  input[type="submit"]:hover {
+    background-color: white;
+  }
+  
+  /* Style for the table */
+  table {
+    margin: auto;
+  }
+  
+  /* Style for the table cells */
+  td {
+    padding: 8px;
+    text-align: right;
+  }
+  
+  /* Style for the td with no content */
+  td:empty {
+    padding: 0;
+  }
+  
+  /* Style for the links */
+  a {
+    color: #364d62;
+    text-decoration: none;
+  }
+  
+  /* Style for the links on hover */
+  a:hover {
+    text-decoration: underline;
+  }
+  

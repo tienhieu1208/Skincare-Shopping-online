@@ -1,0 +1,51 @@
+/* MenuComponent.css */
+
+/* Style for the menu */
+.menu {
+    background-color: black;
+    color: #364d62;
+    padding: 10px; /* Adjust padding as needed */
+  }
+  
+  /* Style for menu items */
+  .menu li {
+    display: inline-block;
+    margin-right: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Style for menu links */
+  .menu a {
+    text-decoration: none;
+    color: #364d62;
+  }
+  
+  /* Style for menu links on hover */
+  .menu a:hover {
+    color: #364d62;
+  }
+  
+  /* Style for the search form */
+  .search {
+    margin-top: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Style for the search input */
+  .keyword {
+    padding: 5px;
+  }
+  
+  /* Style for the search button */
+  .search input[type="submit"] {
+    background-color: #364d62;
+    color: white;
+    padding: 10px 10px; /* Adjust padding as needed */
+    cursor: pointer;
+    border: none;
+  }
+  
+  /* Style for the search button on hover */
+  .search input[type="submit"]:hover {
+    background-color: #364d62;
+    color: white;
+  }
+  

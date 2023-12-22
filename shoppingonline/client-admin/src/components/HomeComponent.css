@@ -1,0 +1,16 @@
+/* HomeComponent.css */
+
+.align-center {
+    background-color: #364d62;
+    height: 100vh; /* Đảm bảo trang HOME chiếm toàn bộ chiều cao của màn hình */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0; /* Loại bỏ margin để màu nền che phủ toàn bộ trang */
+    padding: 0; /* Loại bỏ padding để màu nền che phủ toàn bộ trang */
+  }
+  
+  .text-center {
+    color: white; /* Để text trắng trên nền màu #364d62 */
+  }

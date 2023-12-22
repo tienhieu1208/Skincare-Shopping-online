@@ -1,0 +1,39 @@
+/* HomeComponent.css */
+
+/* Set background color to black */
+body {
+    background-color: #364d62;
+  }
+  
+  /* Style for the product containers */
+  .inline {
+    display: inline-block;
+    margin: 10px;
+  }
+  
+  /* Style for the product images */
+  figure {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid white; /* Add an orange border to the product images */
+  }
+  
+  /* Style for the product captions */
+  figcaption {
+    background-color:white;
+    color: #364d62;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Center align text and set color to orange */
+  .align-center {
+    text-align: center;
+    color: #364d62;
+  }
+  
+  /* Set text color to orange */
+  .text-center {
+    color: #364d62;
+  }
+  

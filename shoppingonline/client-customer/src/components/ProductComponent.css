@@ -1,0 +1,43 @@
+/* ProductComponent.css */
+
+/* Style for the Product component */
+.text-center {
+    text-align: center;
+  }
+  
+  /* Style for the list of products */
+  .text-center .inline {
+    display: inline-block;
+    margin: 10px; /* Adjust margin as needed */
+  }
+  
+  /* Style for product figure */
+  .text-center figure {
+    position: relative;
+  }
+  
+  /* Style for product image */
+  .text-center img {
+    width: 300px;
+    height: 300px;
+    border: 1px solid white; /* Add a border if needed */
+  }
+  
+  /* Style for product caption */
+  .text-center figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px; /* Adjust padding as needed */
+    opacity: 0.8;
+    transition: opacity 0.3s;
+  }
+  
+  /* Style for product caption on hover */
+  .text-center figure:hover figcaption {
+    opacity: 1;
+  }
+  

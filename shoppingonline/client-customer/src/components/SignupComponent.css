@@ -1,0 +1,38 @@
+/* SignupComponent.css */
+
+/* Style for the Signup component */
+.align-center {
+    text-align: center;
+  }
+  
+  /* Style for the form in the Signup component */
+  .align-center form {
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  /* Style for the table in the Signup component */
+  .align-center table {
+    width: 300px; /* Adjust width as needed */
+  }
+  
+  /* Style for the table cells in the Signup component */
+  .align-center td {
+    padding: 8px;
+  }
+  
+  /* Style for the submit button in the Signup component */
+  .align-center input[type="submit"] {
+    background-color: #364d62;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Style for the submit button on hover in the Signup component */
+  .align-center input[type="submit"]:hover {
+    background-color: black;
+    color: #364d62;
+  }
+  
